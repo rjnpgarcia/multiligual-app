@@ -3,7 +3,7 @@ import { initReactI18next } from "react-i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 import Backend from "i18next-http-backend"; // Lazy loading backend
 
-const API_BASE_URL = "https://your-backend.onrender.com";
+const API_BASE_URL = "https://https://multiligual-server.onrender.com";
 
 i18n.use(Backend) // Add backend for lazy loading translations
     .use(LanguageDetector) // Detect browser language
