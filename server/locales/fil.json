@@ -1,0 +1,22 @@
+{
+    "Multilingual-app": "Demo ng Multilingual na App",
+    "welcomeMessage": "Maligayang pagdating sa aming multi-language na app, {{name}}!",
+    "selectLanguage": "Piliin ang Wika:",
+    "currentDate": "Kasalukuyang Petsa at Oras:",
+    "currency": "Kabuuang Presyo:",
+    "enterName": "Ilagay ang iyong pangalan",
+    "detectedCountry": "Natukoy na Bansa",
+
+    "homeLink": "Home",
+    "aboutLink": "Tungkol",
+    "contactLink": "Kontakin",
+
+    "homeTitle": "Maligayang Pagdating sa Aming Website, {{name}}",
+    "homeParagraph": "Kamusta, {{name}}, salamat sa pagbisita sa aming app. Ang site na ito ay nagpapakita kung paano gumagana ang multilingual support sa isang propesyonal na web application.",
+
+    "aboutTitle": "Tungkol sa Amin",
+    "aboutParagraph": "Kami ay isang pandaigdigang kumpanya na nakatuon sa pagbibigay ng pinakamahusay na suporta sa maraming wika para sa aming mga kliyente. Layunin naming lumikha ng maayos na karanasan para sa mga gumagamit sa iba't ibang wika at kultura.",
+
+    "contactTitle": "Makipag-ugnayan sa Amin",
+    "contactParagraph": "Huwag mag-atubiling makipag-ugnayan sa amin para sa anumang katanungan tungkol sa aming mga serbisyo. Narito kami upang tumulong! Para sa feedback, suporta, o mga oportunidad sa pakikipagtulungan, ikinalulugod naming marinig mula sa iyo."
+}

@@ -1,0 +1,22 @@
+{
+    "Multilingual-app": "다국어 앱 데모",
+    "welcomeMessage": "다국어 지원 앱에 오신 것을 환영합니다, {{name}}!",
+    "selectLanguage": "언어 선택:",
+    "currentDate": "현재 날짜 및 시간:",
+    "currency": "총 가격:",
+    "enterName": "이름을 입력하세요",
+    "detectedCountry": "감지된 국가",
+
+    "homeLink": "홈",
+    "aboutLink": "회사 소개",
+    "contactLink": "문의하기",
+
+    "homeTitle": "우리 웹사이트에 오신 것을 환영합니다, {{name}}",
+    "homeParagraph": "안녕하세요, {{name}}님. 저희 앱을 방문해 주셔서 감사합니다. 이 사이트는 전문적인 웹 애플리케이션에서 다국어 지원이 어떻게 작동하는지를 보여줍니다.",
+
+    "aboutTitle": "회사 소개",
+    "aboutParagraph": "우리는 고객에게 최고의 다국어 지원을 제공하기 위해 헌신하는 글로벌 기업입니다. 다양한 언어와 문화에서 원활한 사용자 경험을 제공하는 것이 목표입니다.",
+
+    "contactTitle": "문의하기",
+    "contactParagraph": "서비스에 대한 문의 사항이 있으시면 언제든지 연락주세요. 우리는 항상 여러분을 도울 준비가 되어 있습니다! 피드백, 지원 또는 협업 기회에 대해 언제든지 환영합니다."
+}
