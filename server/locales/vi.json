@@ -1,0 +1,22 @@
+{
+    "Multilingual-app": "Bản Demo Ứng Dụng Đa Ngôn Ngữ",
+    "welcomeMessage": "Chào mừng bạn đến với ứng dụng đa ngôn ngữ của chúng tôi, {{name}}!",
+    "selectLanguage": "Chọn ngôn ngữ:",
+    "currentDate": "Ngày và giờ hiện tại:",
+    "currency": "Tổng giá:",
+    "enterName": "Nhập tên của bạn",
+    "detectedCountry": "Quốc gia được phát hiện",
+
+    "homeLink": "Trang chủ",
+    "aboutLink": "Giới thiệu",
+    "contactLink": "Liên hệ",
+
+    "homeTitle": "Chào mừng đến với trang web của chúng tôi, {{name}}",
+    "homeParagraph": "Xin chào, {{name}}, cảm ơn bạn đã truy cập ứng dụng của chúng tôi. Trang web này trình bày cách hỗ trợ đa ngôn ngữ hoạt động trong một ứng dụng web chuyên nghiệp.",
+
+    "aboutTitle": "Về chúng tôi",
+    "aboutParagraph": "Chúng tôi là một công ty toàn cầu chuyên cung cấp hỗ trợ đa ngôn ngữ tốt nhất cho khách hàng. Mục tiêu của chúng tôi là tạo ra trải nghiệm người dùng liền mạch trên các ngôn ngữ và văn hóa khác nhau.",
+
+    "contactTitle": "Liên hệ với chúng tôi",
+    "contactParagraph": "Hãy liên hệ với chúng tôi nếu bạn có bất kỳ câu hỏi nào về dịch vụ của chúng tôi. Chúng tôi luôn sẵn sàng hỗ trợ bạn! Dù là phản hồi, hỗ trợ hay cơ hội hợp tác, chúng tôi luôn sẵn lòng lắng nghe."
+}

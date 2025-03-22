@@ -1,0 +1,22 @@
+{
+    "Multilingual-app": "Demostración de Aplicación Multilingüe",
+    "welcomeMessage": "¡Bienvenido a nuestra aplicación multilingüe, {{name}}!",
+    "selectLanguage": "Seleccionar idioma:",
+    "currentDate": "Fecha y hora actual:",
+    "currency": "Precio total:",
+    "enterName": "Ingrese su nombre",
+    "detectedCountry": "País detectado",
+
+    "homeLink": "Inicio",
+    "aboutLink": "Acerca de",
+    "contactLink": "Contacto",
+
+    "homeTitle": "Bienvenido a nuestro sitio web, {{name}}",
+    "homeParagraph": "Hola, {{name}}, gracias por visitar nuestra aplicación. Este sitio demuestra cómo funciona el soporte multilingüe en una aplicación web profesional.",
+
+    "aboutTitle": "Sobre nosotros",
+    "aboutParagraph": "Somos una empresa global dedicada a brindar el mejor soporte multilingüe a nuestros clientes. Nuestro objetivo es crear experiencias de usuario fluidas en diferentes idiomas y culturas.",
+
+    "contactTitle": "Contáctenos",
+    "contactParagraph": "No dude en comunicarse con nosotros para cualquier consulta sobre nuestros servicios. ¡Estamos aquí para ayudarle! Ya sea para comentarios, soporte o oportunidades de asociación, siempre estamos encantados de saber de usted."
+}

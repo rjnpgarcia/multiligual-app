@@ -1,0 +1,22 @@
+{
+    "Multilingual-app": "多语言应用演示",
+    "welcomeMessage": "欢迎使用我们的多语言应用，{{name}}！",
+    "selectLanguage": "选择语言：",
+    "currentDate": "当前日期和时间：",
+    "currency": "总价：",
+    "enterName": "请输入您的姓名",
+    "detectedCountry": "检测到的国家",
+
+    "homeLink": "首页",
+    "aboutLink": "关于",
+    "contactLink": "联系我们",
+
+    "homeTitle": "欢迎来到我们的网站，{{name}}",
+    "homeParagraph": "你好，{{name}}，感谢您访问我们的应用。本网站展示了专业Web应用如何支持多语言功能。",
+
+    "aboutTitle": "关于我们",
+    "aboutParagraph": "我们是一家全球公司，致力于为客户提供最好的多语言支持。我们的目标是在不同语言和文化之间创造无缝的用户体验。",
+
+    "contactTitle": "联系我们",
+    "contactParagraph": "如果您对我们的服务有任何疑问，请随时联系我们。无论是反馈、支持还是合作机会，我们都非常乐意听取您的意见！"
+}
